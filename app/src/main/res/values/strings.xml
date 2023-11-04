@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaProject</string>
+
+    <string name="home">Home</string>
+    <string name="video">Video</string>
+    <string name="profile">Profile</string>
+    <string name="product">Product</string>
+    <string name="more">More</string>
+</resources>
